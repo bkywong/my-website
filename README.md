@@ -6,4 +6,4 @@ edit on example branch
 
 edit on update-read branch
 
-edit on update-read branch, locally
+edit on update-read branch, locally, then remotely
