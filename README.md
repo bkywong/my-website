@@ -3,3 +3,7 @@
 This is an awesome website
 
 Updates made on master on GitHub before rebase
+
+## Repository Purpose
+
+To cause conflicts from the local side
